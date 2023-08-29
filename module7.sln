@@ -5,13 +5,15 @@ VisualStudioVersion = 16.0.33927.289
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "module7.1.4", "module7.1.4\module7.1.4.csproj", "{701E5095-2691-4424-99F8-DB309C97E1DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "module7.1.5", "module7.1.5\module7.1.5.csproj", "{C0D65C2F-ED0D-4E5D-A675-2EF3F7900157}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "module7.1.5", "module7.1.5\module7.1.5.csproj", "{C0D65C2F-ED0D-4E5D-A675-2EF3F7900157}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "module7.1.6", "module7.1.6\module7.1.6.csproj", "{B2277B6C-67F1-47BA-8DEA-58ABBB050EEC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "module7.1.6", "module7.1.6\module7.1.6.csproj", "{B2277B6C-67F1-47BA-8DEA-58ABBB050EEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "module7.1.7", "module7.1.7\module7.1.7.csproj", "{1FCC0DC8-0732-4E00-A61A-CCBCC6B1572B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "module7.1.7", "module7.1.7\module7.1.7.csproj", "{1FCC0DC8-0732-4E00-A61A-CCBCC6B1572B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "module7.1.10", "module7.1.10\module7.1.10.csproj", "{1FE51DF3-CAD8-4F7E-A7A3-69CABFF3AF7B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "module7.1.10", "module7.1.10\module7.1.10.csproj", "{1FE51DF3-CAD8-4F7E-A7A3-69CABFF3AF7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "module7.2.3", "module7.2.3\module7.2.3.csproj", "{2A2002A4-99EE-47F5-85AF-5F702C113097}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{1FE51DF3-CAD8-4F7E-A7A3-69CABFF3AF7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FE51DF3-CAD8-4F7E-A7A3-69CABFF3AF7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FE51DF3-CAD8-4F7E-A7A3-69CABFF3AF7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A2002A4-99EE-47F5-85AF-5F702C113097}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A2002A4-99EE-47F5-85AF-5F702C113097}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A2002A4-99EE-47F5-85AF-5F702C113097}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A2002A4-99EE-47F5-85AF-5F702C113097}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
