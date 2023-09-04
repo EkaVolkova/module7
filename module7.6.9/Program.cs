@@ -14,10 +14,10 @@ namespace module7._6._9
             Console.WriteLine("Hello World!");
         }
     }
-    class Car<T1> where T1 : Engine
+    class Car<TEngine> where TEngine : Engine
     {
-        public T1 Engine = default;
-        public virtual void ChangePart<T2>(T2 newPart) where T2 : PartCar
+        public TEngine Engine = default;
+        public virtual void ChangePart<TPartCar>(TPartCar newPart) where TPartCar : PartCar
         {
 
         }
